@@ -311,6 +311,6 @@ Computer Vision • Deep Learning • YOLOv8 • Object Detection • OpenCV •
 
 ---
 
-## 👨‍💻 Author
+## Conclusion
 
 Developed as a Computer Vision and Retail Analytics project demonstrating the application of Deep Learning for intelligent inventory management.
