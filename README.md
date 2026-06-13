@@ -31,6 +31,9 @@ Key outcomes:
 - Fast inference suitable for real-world retail environments
 
 ---
+## 📸 Demo
+<img width="1155" height="519" alt="image" src="https://github.com/user-attachments/assets/a8ae2256-7274-4a95-92f5-3984094f942a" />
+<img width="1155" height="519" alt="image" src="https://github.com/user-attachments/assets/6f23e30d-5349-4215-a0d1-00581d264551" />
 
 ## 📈 Results
 
